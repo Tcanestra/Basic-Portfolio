@@ -1,0 +1,148 @@
+.header{
+    height: 75px;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border-width: 5px;
+
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background: url('../images/bgimage.jpg');
+    background-repeat: repeat;
+
+}
+
+
+.boxtop{
+    margin: auto;
+    width: 960px;
+    height: 100%;
+    margin-top: 0;
+
+}
+
+.name{
+    float: left;
+    background-color: #4aaaa5;
+    height: 100%;
+    
+}
+
+#heading1{
+    margin: auto;
+    color: #ffffff;
+    padding: 20px;
+}
+
+#heading2{
+    padding: 20px;
+    color:#4aaaa5;
+}
+
+.nav{
+    float: right;
+}
+
+.right{
+    float: left;
+}
+
+.vertical{
+    width: 1px;
+    height: 100%;
+    float:left;
+}
+
+#mid{
+background-color: black;
+}
+
+#boxmid{
+    margin: auto;
+    width: 960px;
+    background-color: #ffffff;
+    height: 100%;
+}
+
+#imgsize{
+    float:left;
+    margin-right:20px;
+}
+
+.bio{
+    float:left;
+    padding: 20px;
+    padding-top: 0;
+    background-color: #ffffff;
+    height:100%;
+}
+
+#bio1{
+    width:100%;
+    
+
+}
+
+#bio2{
+    float:left;
+    width:100%;
+    
+
+}
+
+#bio3{
+    float:left;
+    width:100%;
+    
+
+}
+
+hr{
+    width: 920px;
+    margin: 20px;
+}
+
+h1{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.footer {
+    position:absolute;
+    bottom:0px;
+    width: 100%;
+    margin: 0;
+    margin-top:100px;
+    background-color: #666666;
+    height: 50px;
+    border-top: 5px solid #4aaaa5;
+}
+
+.folio{
+    width:100%;
+    height: 65vh;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.imgholder{
+    width:80%;
+    margin:auto;
+}
+
+.imgsize{
+    float:left;
+    margin:20px;
+}
+
+.margin{
+    padding:20px;
+}
+
+.submit{
+    color:white;
+    background-color:#4aaaa5;
+    height:50px;
+    width:100px;
+}
